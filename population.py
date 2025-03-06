@@ -1,6 +1,3 @@
-
-### **📄 cod (`population.py`)**  
-```python
 import requests
 from bs4 import BeautifulSoup
 
